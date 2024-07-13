@@ -1,4 +1,4 @@
-## BEM VINDO ao GIThub do Mateus Campos 👋
+## Bem Vindo ao Github do Mateus Campos 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus_campos06/)
 
