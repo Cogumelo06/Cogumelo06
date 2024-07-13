@@ -5,10 +5,11 @@
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=Cogumelo06&show_icons=true&theme=dracula)
 
 ## Tecnologias que estou aprendendo
-<div style="display: inline_block"><br/>
-<img align="center "alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img align="center "alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />        
-</div><br/>
+
+![png-transparent-java-logo-computer-software-programming-language-computer-programming-java-development-kit-software-developer-text-orange-removebg-preview (1)](https://github.com/user-attachments/assets/8ff22204-a9e2-4f59-a840-861e397e1ff2)     ![html-5-removebg-preview (2)](https://github.com/user-attachments/assets/a6833ad3-cad6-4cba-9bec-cc68ed70fcc9)     ![download-removebg-preview (1)](https://github.com/user-attachments/assets/34729692-af2d-4507-894b-0585652a519f)
+
+
+
 
 Estudante de Ciência da Computação aprendendo linguagens para entrar no mercado de trabalho!
 
