@@ -11,6 +11,6 @@
 
 
 
-Estudante de Ciência da Computação aprendendo linguagens para entrar no mercado de trabalho!
+Estudante de Ciência da Computação, com forte dúvida entre front e back, e na dúvida vai os dois!
 
 
